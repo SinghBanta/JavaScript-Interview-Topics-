@@ -1,12 +1,12 @@
-## ⚖️ Quick Comparison: Spread vs Rest
+                   ## ⚖️ Quick Comparison: Spread vs Rest
 
-| Feature              | Spread (`...`)                              | Rest (`...`)                                  |
-|----------------------|---------------------------------------------|-----------------------------------------------|
-| **Syntax**           | `...`                                       | `...`                                         |
-| **Purpose**          | Expands / unpacks                           | Collects / packs                              |
-| **Use in Functions** | As argument spread: `func(...args)`         | As parameter collection: `function(...args)`  |
-| **Use in Arrays**    | Copy or merge arrays                        | Destructure and get the rest                  |
-| **Use in Objects**   | Copy or merge objects                       | Destructure and get remaining props           |
+                   | Feature              | Spread (`...`)                              | Rest (`...`)                                  |
+                   |----------------------|---------------------------------------------|-----------------------------------------------|
+                   | **Syntax**           | `...`                                       | `...`                                         |
+                   | **Purpose**          | Expands / unpacks                           | Collects / packs                              |
+                   | **Use in Functions** | As argument spread: `func(...args)`         | As parameter collection: `function(...args)`  |
+                   | **Use in Arrays**    | Copy or merge arrays                        | Destructure and get the rest                  |
+                   | **Use in Objects**   | Copy or merge objects                       | Destructure and get remaining props           |
 
 
 
